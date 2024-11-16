@@ -39,7 +39,11 @@ PREVIEW:
 
 
 **7:  Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.**
-
+![image](https://github.com/user-attachments/assets/2e7024bf-3403-417f-947e-b4b85914651c)
+![image](https://github.com/user-attachments/assets/6019a34c-170b-421f-8d8d-174d92b32c61)
 
 
 **8: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**
+![image](https://github.com/user-attachments/assets/8a2bda8f-3a4e-4898-a42e-a6b4a8b7bb13)
+![image](https://github.com/user-attachments/assets/6456c457-a653-4969-8d4e-20ee78d84002)
+
