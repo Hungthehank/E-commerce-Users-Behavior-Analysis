@@ -43,7 +43,7 @@ PREVIEW:
 ![image](https://github.com/user-attachments/assets/6019a34c-170b-421f-8d8d-174d92b32c61)
 
 
-**8: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**
+**8: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase.**
 ![image](https://github.com/user-attachments/assets/8a2bda8f-3a4e-4898-a42e-a6b4a8b7bb13)
 ![image](https://github.com/user-attachments/assets/6456c457-a653-4969-8d4e-20ee78d84002)
 
