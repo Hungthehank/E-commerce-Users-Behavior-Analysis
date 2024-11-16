@@ -47,3 +47,4 @@ PREVIEW:
 ![image](https://github.com/user-attachments/assets/8a2bda8f-3a4e-4898-a42e-a6b4a8b7bb13)
 ![image](https://github.com/user-attachments/assets/6456c457-a653-4969-8d4e-20ee78d84002)
 
+https://www.notion.so/Project-1_SQL-E-commerce-in-Bigquery-07b38431eb914829935308d3d70e373f
