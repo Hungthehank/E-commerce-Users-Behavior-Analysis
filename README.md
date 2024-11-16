@@ -22,6 +22,7 @@ PREVIEW:
 ![image](https://github.com/user-attachments/assets/c7b77937-c68f-4687-952a-7eb6042863e3)
 ![image](https://github.com/user-attachments/assets/82866075-c3fd-47e8-baf4-f2f4c48c2d06)
 
+
 **4: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017.**
 ![image](https://github.com/user-attachments/assets/6124ef35-3035-4f9f-8cd8-eaf7d5e256cb)
 ![image](https://github.com/user-attachments/assets/583f90cf-a673-457b-8841-c0c4d2a303da)
@@ -29,10 +30,16 @@ PREVIEW:
 
 **5: Average number of transactions per user that made a purchase in July 2017**
 ![image](https://github.com/user-attachments/assets/8890352b-b16f-4e70-a58f-327964803f0d)
+![image](https://github.com/user-attachments/assets/16c56414-378f-4da0-814c-c564e5a335a2)
 
 
-**6: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**
+**6: Average amount of money spent per session. Only include purchaser data in July 2017.**
+![image](https://github.com/user-attachments/assets/c234bfa8-e362-4525-8cdc-6d8860f51435)
+![image](https://github.com/user-attachments/assets/e7cabbe1-530e-4bfb-a0de-1ce724c8fd1f)
 
-**7: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**
+
+**7:  Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.**
+
+
 
 **8: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**
