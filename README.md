@@ -1,6 +1,7 @@
 # Ecommerce_dataset_exploration
 ### Use SQL in BigQuery platform  to query, extract data **as desired** to understand customer purchasing behavior.
 
+#### Dataset
 SCHEMA:
 ![image](https://github.com/user-attachments/assets/fc762e93-8a4c-4024-8d0c-3f95e119936c)
 
